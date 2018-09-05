@@ -1,9 +1,9 @@
 {
   "name": "traffic_sg",
-  "version": "5.6.1",
+  "version": "6.3.2",
   "description": "Trafic light Visualization",
   "main": "index.js",
   "kibana": {
-    "version": "5.6.1"
+    "version": "6.3.2"
   }
 }
